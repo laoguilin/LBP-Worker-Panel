@@ -1,4 +1,4 @@
-<h1 align="center">💦 BPB Panel</h1>
+<h1 align="center">💦 LBP Panel</h1>
 
 ### 🌏 Readme in [Farsi](README_fa.md)
 
